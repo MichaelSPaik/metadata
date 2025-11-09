@@ -878,7 +878,7 @@
           "primary": "#00263A",
           "secondary": "#FFFFFF",
           "tertiary": "#000000",
-          "prestige": 46.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "USU"
@@ -911,7 +911,7 @@
           "primary": "#003366",
           "secondary": "#CC0000",
           "tertiary": "#FFFFFF",
-          "prestige": 42.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "FIU"
@@ -935,7 +935,7 @@
           "primary": "#001A4C",
           "secondary": "#79BE20",
           "tertiary": "#FFFFFF",
-          "prestige": 46.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "MAR"
@@ -947,7 +947,7 @@
           "primary": "#003D7C",
           "secondary": "#FFFFFF",
           "tertiary": "#000000",
-          "prestige": 44.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "MTSU"
@@ -971,7 +971,7 @@
           "primary": "#003366",
           "secondary": "#FFCC00",
           "tertiary": "#FFFFFF",
-          "prestige": 40.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "UTEP"
@@ -1016,7 +1016,7 @@
           "primary": "#BA0C2F",
           "secondary": "#FFFFFF",
           "tertiary": "#000000",
-          "prestige": 40.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "BALL"
@@ -1028,7 +1028,7 @@
           "primary": "#F15A24",
           "secondary": "#000000",
           "tertiary": "#FFFFFF",
-          "prestige": 42.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "BGSU"
@@ -1064,7 +1064,7 @@
           "primary": "#BF5700",
           "secondary": "#FFFFFF",
           "tertiary": "#000000",
-          "prestige": 44.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "MIAO"
@@ -1076,7 +1076,7 @@
           "primary": "#C41230",
           "secondary": "#000000",
           "tertiary": "#FFFFFF",
-          "prestige": 40.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "NIU"
@@ -1088,7 +1088,7 @@
           "primary": "#7A0026",
           "secondary": "#FFFFFF",
           "tertiary": "#000000",
-          "prestige": 42.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "OHIO"
@@ -1100,7 +1100,7 @@
           "primary": "#002166",
           "secondary": "#6FB7E9",
           "tertiary": "#FFFFFF",
-          "prestige": 46.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "TOLEDO"
@@ -1112,7 +1112,7 @@
           "primary": "#7A0026",
           "secondary": "#FFC425",
           "tertiary": "#FFFFFF",
-          "prestige": 38.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "WMU"
@@ -1157,7 +1157,7 @@
           "primary": "#003DA5",
           "secondary": "#69BE28",
           "tertiary": "#FFFFFF",
-          "prestige": 44.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "GAST"
@@ -1209,7 +1209,7 @@
       "primary": "#000000",
       "secondary": "#002868",
       "tertiary": "#FFFFFF",
-      "prestige": 40.0,
+      "prestige": 50.0,
       "offenseScheme": "pro",
       "defenseScheme": "4-3",
       "abbreviation": "UCONN"
