@@ -144,7 +144,7 @@
           "city": "Virginia",
           "mascot": "Cavaliers",
           "primary": "#F84C1E",
-          "secondary": "#232D4B",
+          "secondary": "#2D4B",
           "tertiary": "#FFFFFF",
           "prestige": 58.0,
           "offenseScheme": "pro",
@@ -1004,7 +1004,7 @@
           "primary": "#003DA5",
           "secondary": "#FFB81C",
           "tertiary": "#FFFFFF",
-          "prestige": 36.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "AKRON"
@@ -1040,7 +1040,7 @@
           "primary": "#6C2C1B",
           "secondary": "#FFFFFF",
           "tertiary": "#000000",
-          "prestige": 38.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "CMU"
@@ -1052,7 +1052,7 @@
           "primary": "#006778",
           "secondary": "#FFFFFF",
           "tertiary": "#000000",
-          "prestige": 36.0,
+          "prestige": 50.0,
           "offenseScheme": "pro",
           "defenseScheme": "4-3",
           "abbreviation": "EMU"
